@@ -1,0 +1,72 @@
+{
+  "main": {
+    "name":"VISHAL KUMAR SAW",
+    "description":"MERN Stack Web Development Engineer",
+    "image":"profilepicture.jfif",
+    "bio":"I am a Computer Science and Engineering Student at Indian Institute of Technology (BHU), Varanasi. I am interested in competitive programming, software development and problem solving. My hobbies include playing cricket and badminton.",
+    "contactmessage":"If you are looking for someone who is open to new opportunities and excited to learn, please email me at vishalkrsaw19035059@gmail.com",
+    "email": "vishalkrsaw19035059@gmail.com",
+    "github":"https://github.com/vishal-kumar-saw",
+    "project":"https://github.com/vishal-kumar-saw?tab=repositories",
+    "address":{
+      "street":"",
+      "city":"Kolkata",
+      "state":"West Bengal",
+      "zip": "711204"
+    },
+    "website": "https://github.com/vishal-kumar-saw",
+    "social":[
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/vishal-kumar-saw/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/vishal-kumar-saw",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"",
+    "education":[
+      {
+        "school":"Indian Institute of Technology (BHU), Varanasi",
+        "degree":"Bachelor of Technology (CSE)",
+        "graduated":"June 2023",
+        "description":"Qualified the most competitive engineering entrance exam in India and got admitted to one of the prestigious institutes in the country. Currently I am pursuing my B.Tech degree in Computer Science and Engineering from here."
+      }
+    ],
+    "work":[
+      {
+        "company":"The Sparks Foundation",
+        "title":"Web Designer and Developer",
+        "years":"June 2021 - July 2021",
+        "description":"Worked as a web developer and designer for the sparks foundation. Made a banking website using MERN Stack, where transactions records for the people were to be stored."
+      }
+    ],
+    "skills":[
+      {
+        "name":"JavaScript",
+        "level":"90%"
+      },
+      {
+        "name":"HTML",
+        "level":"90%"
+      },      
+      {
+        "name":"CSS",
+        "level":"80%"
+      },
+      {
+        "name":"VueJs",
+        "level":"60%"
+      },
+      {
+        "name":"JQuery",
+        "level":"60%"
+      }
+    ]
+  }
+}
